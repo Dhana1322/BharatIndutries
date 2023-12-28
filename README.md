@@ -3,10 +3,10 @@
 <h1 style="text-align:center;background-color:yellow;color:red;font-family:times;">Industrial Quotes</h1>
   <hr>
 </head>
-<body style="text-align:center;background-color:blue;">
+<body style="text-align:center;"background-color: rgb(141, 192, 219);">
 
 <!-- How this works -->
-<p style="color:white;"background-color:rgb(141, 192, 219);">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
+<p style="color:white;"background-color: rgb(141, 192, 219);">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
 
 <p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
 <a href="https://www.w3schools.com">This is a <strong> link </strong> </a> <br>
