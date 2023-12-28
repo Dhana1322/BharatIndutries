@@ -59,9 +59,9 @@ Mechanical engineers design machines that are used to create energy and promote 
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Dhana</a>
-  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">DJ </a>
-  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Raja</a>
+  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Cutting tools</a>
+  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Electric tools </a>
+  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Clamps</a>
   </div>
 </div>
 
