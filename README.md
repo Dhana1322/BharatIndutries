@@ -7,8 +7,8 @@
 
 
 
-<p style="color:red;font-family:courier;"> Click below <strong>link & register </strong> .</p>
-<a href="https://www.w3schools.com">This is a <strong>link</strong> </a> <br>
+<p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
+<a href="https://www.w3schools.com">This is a <strong> link </strong> </a> <br>
 
 <img src="image1.png" width="250" height="400" alt="Lord SHIVA">
 
