@@ -3,7 +3,7 @@
 <h1 style="text-align:center;background-color:yellow;color:red;font-family:times;">Industrial Quotes</h1>
   <hr>
 </head>
-<body style="text-align:center;">
+<body style="text-align:center;background-color:blue;">
 
 
 
