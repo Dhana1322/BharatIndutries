@@ -7,6 +7,7 @@
   <style>
     body{background-image: url("image1.png");
   background-color: #cccccc;}
+    "width="500" height="500"
     </style>
 <body >
 <!-- How this works -->
