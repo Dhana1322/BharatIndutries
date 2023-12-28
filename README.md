@@ -48,12 +48,11 @@
   
 <body style="background-color: rgb(141, 192, 219);text-align:center;">
 <!-- How this works -->
-<p style="color:white; background-color: rgb(141, 192, 219); ">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
+<p style="color:white; background-color: rgb(141, 192, 219); ">What does a <strong> mechanical engineer </strong> do?
+Mechanical engineers design machines that are used to create energy and promote efficiency, like generators and elevators. Here are some of the duties of mechanical engineers:.</p>
 
-<p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
+<p style="color:red;font-family:courier;"> Mechanical engineers use a variety of handheld and digital tools to help them complete their tasks at work. Learning about the tools that mechanical engineers use can help you prepare for a career in engineering. In this article, we list the duties of mechanical engineers, provide tips for working as a mechanical engineer and describe mechanical engineer tools..</p>
 <a href="https://www.w3schools.com" target="_blank">This is a <strong> link </strong> </a><br>
-
-
 
 <body>
 
@@ -69,16 +68,10 @@
 
 </body>
 
-
-
-
-
-
-
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Designing machines: Mechanical engineers can design machines on paper or with the help of computer software.</li>
+  <li>Building: A mechanical engineer can also build machines they design or work as part of a team to build a large machine.</li>
+  <li>T**esting:** Once a machine is built, a mechanical engineer can test it to make sure it works in a variety of environments and situations.</li>
 </ul><br>
 <link rel="icon" type="image/x-icon" href="image1.png">
 
