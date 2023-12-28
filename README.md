@@ -4,9 +4,9 @@
   <hr>
 </head>
 <!--<body style="background-color: rgb(141, 192, 219);text-align:center;">-->
-<body style="background-color: rgb(141, 192, 219);text-align:center;">
+<body style="background-color: url('image1.png');text-align:center;">
 <!-- How this works -->
-<p style="color:white; background-color: url('image1.png')">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
+<p style="color:white; background-color: rgb(141, 192, 219); ">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
 
 <p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
 <a href="https://www.w3schools.com" target="_blank">This is a <strong> link </strong> </a> <br>
