@@ -117,7 +117,9 @@ Visual basic is a coding language that mechanical engineers can use to automate 
 </pre>
 </body>
 
-<img src="image1.png" style="float:none;" width="250" height="400" alt="Lord SHIVA">
+<img src="Tool1.jpg" style="float:right;" width="250" height="400" >
+<img src="tool2.jpg" style="float:left;" width="250" height="400" >
+<img src="tool3.jpg" style="float:none;" width="250" height="400" >
 
 
 </body>
