@@ -60,9 +60,9 @@
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-  <a href="#">Dhana</a>
-  <a href="#">DJ </a>
-  <a href="#">Raja</a>
+  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Dhana</a>
+  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">DJ </a>
+  <a href="https://forms.gle/7afBmqdXcmUjxLiJ7">Raja</a>
   </div>
 </div>
 
