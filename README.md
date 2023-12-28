@@ -58,22 +58,21 @@
 </head>
 <body>
 
-<h2>Dropdown Menu</h2>
-<p>Move the mouse over the button to open the dropdown menu.</p>
-
 <div class="dropdown">
   <button class="dropbtn">Dropdown</button>
   <div class="dropdown-content">
-  <a href="#">Link 1</a>
-  <a href="#">Link 2</a>
-  <a href="#">Link 3</a>
+  <a href="#">Dhana</a>
+  <a href="#">DJ </a>
+  <a href="#">Raja</a>
   </div>
 </div>
 
-<p><strong>Note:</strong> We use href="#" for test links. In a real web site this would be URLs.</p>
 
 </body>
 </html>
+
+
+
 
 
 
