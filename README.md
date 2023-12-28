@@ -6,7 +6,7 @@
 <body style="text-align:center;background-color:blue;">
 
 <!-- How this works -->
-<p style="color:white">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
+<p style="color:white;"background-color:rgb(141, 192, 219);">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
 
 <p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
 <a href="https://www.w3schools.com">This is a <strong> link </strong> </a> <br>
