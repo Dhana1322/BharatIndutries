@@ -5,7 +5,9 @@
 </head>
 <body style="text-align:center;background-color:blue;">
 
-
+<p>
+The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.
+</p>
 
 <p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
 <a href="https://www.w3schools.com">This is a <strong> link </strong> </a> <br>
