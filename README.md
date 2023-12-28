@@ -4,7 +4,7 @@
   <hr>
 </head>
 <!--<body style="background-color: rgb(141, 192, 219);text-align:center;">-->
-<body style="background-image: url('image1.png');text-align:center;">
+<body style="background-image: url('image1.png');" width="2880" height="1800"  text-align:center;">
 <!-- How this works -->
 <p style="color:white; background-color: rgb(141, 192, 219); ">The <abbr title="World Health Organization"> WHO</abbr> was founded in 1948.</p>
 
