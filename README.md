@@ -11,7 +11,7 @@
 <p style="color:red;font-family:courier;"> Click below <strong> link & register </strong> .</p>
 <a href="https://www.w3schools.com" target="_blank">This is a <strong> link </strong> </a> <br>
 
-<img src="image1.png" width="250" height="400" alt="Lord SHIVA">
+<img src="image1.png" style="float:right ; width="250" height="400" alt="Lord SHIVA">
 
 
 </body>
